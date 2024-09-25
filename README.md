@@ -18,12 +18,12 @@ An app designed to help students efficiently coordinate shared auto rides from c
 
 ## Screenshots
 
-<img src="https://github.com/user-attachments/assets/d4cc54e5-141e-4ed9-85e0-6ff34bdfddb8" width="100" height="200">
-<img src="https://github.com/user-attachments/assets/ef606663-4b8c-4d5a-a680-0a1d333f34fa" width="100" height="200">
-<img src="https://github.com/user-attachments/assets/88ce65b3-0e17-473f-86a5-5b737a7b1d7b" width="100" height="200">
-<img src="https://github.com/user-attachments/assets/f53c7716-0061-47fc-be8e-11850f42cdcc" width="100" height="200">
-<img src="https://github.com/user-attachments/assets/3a09712a-0633-4c79-bfb1-825de53591ca" width="400">
-<img src="https://github.com/user-attachments/assets/ac3288e0-7694-4189-af9c-90a8235d0455" width="400">
+<img src="https://github.com/user-attachments/assets/d4cc54e5-141e-4ed9-85e0-6ff34bdfddb8" width="200" height="300">
+<img src="https://github.com/user-attachments/assets/ef606663-4b8c-4d5a-a680-0a1d333f34fa" width="200" height="300">
+<img src="https://github.com/user-attachments/assets/88ce65b3-0e17-473f-86a5-5b737a7b1d7b" width="200" height="300">
+<img src="https://github.com/user-attachments/assets/f53c7716-0061-47fc-be8e-11850f42cdcc" width="200" height="300">
+<img src="https://github.com/user-attachments/assets/3a09712a-0633-4c79-bfb1-825de53591ca" width="200" height="300">
+<img src="https://github.com/user-attachments/assets/ac3288e0-7694-4189-af9c-90a8235d0455" width="200" height="300">
 
 
 
