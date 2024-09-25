@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "390184165791",
+    "project_id": "nita-auto",
+    "storage_bucket": "nita-auto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390184165791:android:19263eb0d4f46562c0ddaa",
+        "android_client_info": {
+          "package_name": "com.example.nita_auto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtYwlO1NfozJLUVyYJfporI8YePQao5-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
