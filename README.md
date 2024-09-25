@@ -30,11 +30,11 @@ An app designed to help students efficiently coordinate shared auto rides from c
 ## Contributing
 -We welcome contributions from the community. Please follow the contribution guidelines:
 
--Fork the repository.
--Create a new branch (git checkout -b feature-branch).
--Commit your changes (git commit -m 'Add new feature').
--Push to the branch (git push origin feature-branch).
--Create a pull request.
+- Fork the repository.
+- Create a new branch (git checkout -b feature-branch).
+- Commit your changes (git commit -m 'Add new feature').
+- Push to the branch (git push origin feature-branch).
+- Create a pull request. 
 
 
 
