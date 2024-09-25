@@ -17,7 +17,14 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Nita Auto'),
+        backgroundColor: const Color.fromARGB(255, 93, 94, 146),
+        title: Text(
+          'Auto-Mate',
+          style: TextStyle(
+            fontWeight: FontWeight.bold,
+            color: Colors.white,
+          ),
+        ),
         actions: [
           IconButton(
             icon: Icon(Icons.logout),
